@@ -1,0 +1,8 @@
+{
+  "name": "浙里安 - AI 识隐患和清单检查",
+  "description": "移动端 HAP 原型，主要用于政府和企业进行安全隐患排查。包含 AI 识隐患、清单检查、检查记录和隐患记录四个核心模块。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
